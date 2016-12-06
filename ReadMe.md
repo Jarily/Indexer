@@ -1,8 +1,11 @@
+# Indexer
+a big project from UCAS Course  Ben He' Modern Information Retrieval 
+
 ---------------------------------------------------------------------------------------------
-NAME：            基于Python的索引器实现
-OS:               Windows 7 64 Bit
-ENVIRONMENT:      Python3.6 (Without External Dependencies) 
-DATE：            2016.11.6
+## NAME：            基于Python的索引器实现
+## OS:               Windows 7 64 Bit
+## ENVIRONMENT:      Python3.6 (Without External Dependencies) 
+## DATE：            2016.11.6
 ---------------------------------------------------------------------------------------------                
 		  1 getEntrySeq.py
 		  2 singlePassInMemoryIndexing.py
